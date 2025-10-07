@@ -2,14 +2,14 @@
   {
     "network": "unicity:testnet",
     "assetKind": "non-fungible",
-    "name": "Unicity",
+    "name": "unicity",
     "description": "Unicity testnet token type",
     "id": "f8aa13834268d29355ff12183066f0cb902003629bbc5eb9ef0efbe397867509"
   },
   {
     "network": "unicity:testnet",
     "assetKind": "fungible",
-    "name": "Solana",
+    "name": "solana",
     "symbol": "SOL",
     "decimals": 9,
     "description": "Solana testnet coin on Unicity",
@@ -22,7 +22,7 @@
   {
     "network": "unicity:testnet",
     "assetKind": "fungible",
-    "name": "Bitcoin",
+    "name": "bitcoin",
     "symbol": "BTC",
     "decimals": 8,
     "description": "Bitcoin testnet coin on Unicity",
@@ -35,7 +35,7 @@
   {
     "network": "unicity:testnet",
     "assetKind": "fungible",
-    "name": "Ethereum",
+    "name": "ethereum",
     "symbol": "ETH",
     "decimals": 18,
     "description": "Ethereum testnet coin on Unicity",
@@ -48,7 +48,7 @@
   {
     "network": "unicity:testnet",
     "assetKind": "fungible",
-    "name": "Tether",
+    "name": "tether",
     "symbol": "USDT",
     "decimals": 6,
     "description": "Tether (Ethereum) testnet coin on Unicity",
@@ -61,7 +61,7 @@
   {
     "network": "unicity:testnet",
     "assetKind": "fungible",
-    "name": "USD Coin",
+    "name": "usd-coin",
     "symbol": "USDC",
     "decimals": 6,
     "description": "USDC (Ethereum) testnet coin on Unicity",
