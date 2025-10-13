@@ -12,11 +12,35 @@
     "name": "unicity",
     "symbol": "UCT",
     "decimals": 18,
-    "description": "Unicity testnet coin on Unicity",
+    "description": "Unicity testnet native coin",
     "icons": [
       { "url": "https://raw.githubusercontent.com/unicitynetwork/unicity-ids/refs/heads/main/unicity_logo_32.png" }
     ],
     "id": "455ad8720656b08e8dbd5bac1f3c73eeea5431565f6c1c3af742b1aa12d41d89"
+  },
+  {
+    "network": "unicity:testnet",
+    "assetKind": "fungible",
+    "name": "unicity-usd",
+    "symbol": "USDU",
+    "decimals": 6,
+    "description": "Unicity testnet USD stablecoin",
+    "icons": [
+      { "url": "https://raw.githubusercontent.com/unicitynetwork/unicity-ids/refs/heads/main/usdu_logo_32.png" }
+    ],
+    "id": "8f0f3d7a5e7297be0ee98c63b81bcebb2740f43f616566fc290f9823a54f52d7"
+  },
+  {
+    "network": "unicity:testnet",
+    "assetKind": "fungible",
+    "name": "unicity-eur",
+    "symbol": "EURU",
+    "decimals": 6,
+    "description": "Unicity testnet EUR stablecoin",
+    "icons": [
+      { "url": "https://raw.githubusercontent.com/unicitynetwork/unicity-ids/refs/heads/main/euru_logo_32.png" }
+    ],
+    "id": "5e160d5e9fdbb03b553fb9c3f6e6c30efa41fa807be39fb4f18e43776e492925"
   },
   {
     "network": "unicity:testnet",
