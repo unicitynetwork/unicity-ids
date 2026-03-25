@@ -118,5 +118,17 @@
       { "url": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/usdc.png" }
     ],
     "id": "2265121770fa6f41131dd9a6cc571e28679263d09a53eb2642e145b5b9a5b0a2"
+  },
+  {
+    "network": "unicity:testnet",
+    "assetKind": "fungible",
+    "name": "digital-dirham",
+    "symbol": "DDSC",
+    "decimals": 18,
+    "description": "Digital Dirham Stable Coin on Unicity testnet",
+    "icons": [
+      { "url": "https://raw.githubusercontent.com/unicitynetwork/unicity-ids/refs/heads/main/ddsc_logo_32.png" }
+    ],
+    "id": "99d512fcede11ae2df082bd403a33d8513746908a2ea3b6937f9784607505470"
   }
 ]
