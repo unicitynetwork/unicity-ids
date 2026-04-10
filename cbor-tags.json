@@ -1,0 +1,27 @@
+{
+  "UnicityTrustBase": 39000,
+
+  "UnicityCertificate": 39001,
+  "InputRecord": 39002,
+  "ShardTreeCertificate": 39003,
+  "UnicityTreeCertificate": 39004,
+  "UnicitySeal": 39005,
+
+  "RootPartitionBlockData": 39006,
+  "RootPartitionRoundInfo": 39007,
+
+  "PartitionDescriptionRecord": 39008,
+  "Block": 39009,
+  "TransactionRecord": 39010,
+  "TransactionOrder": 39011,
+  "TxProof": 39012,
+  "UnitStateProof": 39013,
+
+/* currently unused
+  "RootGenesis": ,
+  "GenesisRootRecord": ,
+  "GenesisPartitionRecord": ,
+  "ConsensusParams": ,
+  "PartitionNode": ,
+*/
+}
