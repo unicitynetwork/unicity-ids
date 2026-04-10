@@ -17,11 +17,11 @@
   "TxProof": 39012,
   "UnitStateProof": 39013,
 
-/* currently unused
-  "RootGenesis": ,
-  "GenesisRootRecord": ,
-  "GenesisPartitionRecord": ,
-  "ConsensusParams": ,
-  "PartitionNode": ,
-*/
+  "_unused_tags": {
+    "RootGenesis": null,
+    "GenesisRootRecord": null,
+    "GenesisPartitionRecord": null,
+    "ConsensusParams": null,
+    "PartitionNode": null
+  }
 }
