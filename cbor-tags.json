@@ -17,6 +17,11 @@
   "TxProof": 39012,
   "UnitStateProof": 39013,
 
+  "CertificationRequest": 39030,
+  "CertificationData": 39031,
+  "Predicate": 39032,
+  "InclusionProof": 39033,
+
   "_unused_tags": {
     "RootGenesis": null,
     "GenesisRootRecord": null,
