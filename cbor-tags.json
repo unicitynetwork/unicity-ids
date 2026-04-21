@@ -21,6 +21,13 @@
   "CertificationData": 39031,
   "Predicate": 39032,
   "InclusionProof": 39033,
+  
+  "Token": 39040,
+  "MintTx": 39041,
+  "MintReasonGenesis": 39042,
+  "MintReasonReward": 39043,
+  "MintReasonSplit": 39044,
+  "TransferTx": 39045,
 
   "_unused_tags": {
     "RootGenesis": null,
