@@ -160,5 +160,19 @@
       }
     ],
     "id": "4aaddcab72d965aeac5b01516a18ce09f23eca75509fe71cfc66c77620179dcc"
+  },
+  {
+    "network": "unicity:testnet2",
+    "assetKind": "fungible",
+    "name": "snake-game",
+    "symbol": "SNAKE",
+    "decimals": 0,
+    "description": "Official token for the Unicity Snake Game",
+    "icons": [
+      {
+        "url": "https://unicitysnake.vercel.app/logo_32.png"
+      }
+    ],
+    "id": "7fc5d3a3c480c8606d25b381ed64e9c79560ec0243628691c978f40226d06c86"
   }
 ]
