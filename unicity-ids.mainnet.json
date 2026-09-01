@@ -1,0 +1,9 @@
+[
+  {
+    "network": "unicity:mainnet",
+    "assetKind": "non-fungible",
+    "name": "unicity",
+    "description": "Unicity mainnet token type",
+    "id": "9f190eea6c8d7e1e564c35feb4c289add78be4bedb81bb77fe265e926e5493f4"
+  }
+]
