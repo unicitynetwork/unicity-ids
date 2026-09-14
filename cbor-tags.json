@@ -34,6 +34,11 @@
 
   "SpherePaymentData": 39050,
   "SphereTokenBlob": 39051,
+
+  "NftMetadata": 39052,
+  "NftMedia": 39053,
+  "NftLink": 39054,
+  "NftSigned": 39055,
   
   "_unused_tags": {
     "RootGenesis": null,
