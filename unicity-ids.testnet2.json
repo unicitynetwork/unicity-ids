@@ -150,6 +150,26 @@
   {
     "network": "unicity:testnet2",
     "assetKind": "fungible",
+    "name": "usd-coin-sepolia",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "description": "USDC bridged from Ethereum Sepolia to Unicity testnet v2",
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/icon/usdc.svg"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/usdc.png"
+      }
+    ],
+    "id": "eae954053183b9d1836d6b5c892867014bcc1571fcc6813f5b56b16a78d0497f",
+    "issuance": {
+      "tokenType": "2ccbf3157add2b9a2dcc10e772abf5cf328e2723f9f290a9d2b6c4a42a132d6c"
+    }
+  },
+  {
+    "network": "unicity:testnet2",
+    "assetKind": "fungible",
     "name": "digital-dirham",
     "symbol": "DDSC",
     "decimals": 18,
