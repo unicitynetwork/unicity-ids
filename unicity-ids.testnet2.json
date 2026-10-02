@@ -133,23 +133,6 @@
   {
     "network": "unicity:testnet2",
     "assetKind": "fungible",
-    "name": "usd-coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "description": "USDC (Ethereum) testnet v2 coin on Unicity",
-    "icons": [
-      {
-        "url": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/icon/usdc.svg"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/usdc.png"
-      }
-    ],
-    "id": "6684ca2f90cd0b0aa8eaf0af2513c75cf2c6d30fc705089b2424bacf74fc3aa1"
-  },
-  {
-    "network": "unicity:testnet2",
-    "assetKind": "fungible",
     "name": "usd-coin-sepolia",
     "symbol": "USDC.e",
     "decimals": 6,
