@@ -133,7 +133,7 @@
   {
     "network": "unicity:testnet2",
     "assetKind": "fungible",
-    "name": "usd-coin-sepolia",
+    "name": "usd-coin",
     "symbol": "USDC.e",
     "decimals": 6,
     "description": "USDC bridged from Ethereum Sepolia to Unicity testnet v2",
