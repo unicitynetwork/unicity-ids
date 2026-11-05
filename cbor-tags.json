@@ -16,6 +16,8 @@
   "TransactionOrder": 39011,
   "TxProof": 39012,
   "UnitStateProof": 39013,
+  "UnicityTrustBaseRequest": 39014,
+  "UnicityTrustBaseResponse": 39015,
 
   "CertificationRequest": 39030,
   "CertificationData": 39031,
