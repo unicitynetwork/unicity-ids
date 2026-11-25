@@ -42,6 +42,8 @@
   "NftLink": 39054,
   "NftSigned": 39055,
   
+  "MintReasonDocumentLineageGenesis": 39200;
+  
   "_unused_tags": {
     "RootGenesis": null,
     "GenesisRootRecord": null,
